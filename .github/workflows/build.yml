@@ -1,0 +1,36 @@
+name: build
+
+on:
+  schedule:
+    # اجرا در دقیقه ۱۷ هر ۶ ساعت (زمان‌بندی تصادفی برای جلوگیری از ترافیک سنگین سرورهای گیت‌هاب)
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # نوشتن تاریخ و ساعت جدید در فایل هارت‌بیت
+      - name: Write heartbeat
+        run: date -u +"%Y-%m-%dT%H:%M:%SZ" > heartbeat.txt
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing changed, skipping commit"
+            exit 0
+          fi
+          git commit -m "chore: heartbeat $(date -u +%FT%TZ)"
+          git push
