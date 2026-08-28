@@ -2,6 +2,7 @@ name: build
 
 on:
   schedule:
+    # دقیقهٔ ۱۷ عمدی است: cronهای «سر ساعت» در GitHub شلوغ‌اند و اجرا عقب می‌افتد
     - cron: "17 */6 * * *"
   workflow_dispatch:
 
@@ -36,10 +37,15 @@ jobs:
           base64 -w0 /tmp/sig.bin > docs/v1/list.json.sig
           rm -f /tmp/private.pem
 
+      # if: always() چون اگر sanity gate فعال شود، build با خطا برمی‌گردد و بدون این،
+      # heartbeat نوشته نمی‌شود — یعنی تایمر ۶۰ روزهٔ cron دقیقاً وقتی شروع به شمردن
+      # می‌کند که upstreamها خراب‌اند و بیشترین نیاز به زنده ماندن workflow هست.
       - name: Write heartbeat
+        if: always()
         run: date -u +"%Y-%m-%dT%H:%M:%SZ" > heartbeat.txt
 
       - name: Commit if changed
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,3 +53,12 @@ jobs:
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
           git commit -m "chore: update list $(date -u +%FT%TZ)"
           git push
+
+      # jsDelivr حدود ۱۲ ساعت cache می‌کند؛ بدون purge این mirror نیم روز عقب می‌ماند.
+      # continue-on-error چون شکست purge نباید یک انتشار موفق را قرمز کند.
+      - name: Purge jsDelivr
+        if: steps.build.outputs.changed == 'true'
+        continue-on-error: true
+        run: |
+          curl -sf https://purge.jsdelivr.net/gh/david98mo/plist@main/docs/v1/list.json || true
+          curl -sf https://purge.jsdelivr.net/gh/david98mo/plist@main/docs/v1/list.json.sig || true

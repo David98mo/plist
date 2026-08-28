@@ -7,10 +7,10 @@
     "https://raw.githubusercontent.com/david98mo/plist/main/docs/v1/list.json",
     "https://plist-7nm.pages.dev/v1/list.json"
   ],
-  "limits": {
+    "limits": {
     "max_proxies": 5000,
-    "min_distinct_hosts": 50,
-    "max_drop_ratio": 0.7,
+    "min_distinct_hosts": 150,
+    "max_drop_ratio": 0.5,
     "per_source_timeout_seconds": 30,
     "max_body_bytes": 2097152
   },
