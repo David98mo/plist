@@ -1,4 +1,55 @@
 {
   "version": 1,
-  "sources": []
+  "ttl_seconds": 21600,
+  "mirrors": [
+    "https://david98mo.github.io/plist/list.json",
+    "https://cdn.jsdelivr.net/gh/david98mo/plist@main/docs/list.json",
+    "https://raw.githubusercontent.com/david98mo/plist/main/docs/list.json",
+    "https://plist-7nm.pages.dev/list.json"
+  ],
+  "limits": {
+    "max_proxies": 5000,
+    "min_distinct_hosts": 50,
+    "max_drop_ratio": 0.7,
+    "per_source_timeout_seconds": 30,
+    "max_body_bytes": 2097152
+  },
+  "sources": [
+    {
+      "id": "solispirit_mtproto",
+      "kind": "mtproto",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt"
+    },
+    {
+      "id": "argh94_mtproto",
+      "kind": "mtproto",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/Argh94/Proxy-List/main/MTProto.txt"
+    },
+    {
+      "id": "dubblebyte_mtproto",
+      "kind": "mtproto",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/dubblebyte/free-mtproto-proxies/main/all_proxies.txt"
+    },
+    {
+      "id": "hookzof_socks5",
+      "kind": "socks5",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt"
+    },
+    {
+      "id": "argh94_socks5",
+      "kind": "socks5",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/Argh94/Proxy-List/main/SOCKS5.txt"
+    }
+  ],
+  "channels": [
+    "ProxyMTProto",
+    "TProxyRU",
+    "mtpro_xyz",
+    "mtp4tg"
+  ]
 }

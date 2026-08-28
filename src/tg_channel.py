@@ -1,8 +1,7 @@
-# tg_channel.py
 import re, html, base64, time
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, parse_qs
-import httpx
+import urllib.request
 
 POST_RE = re.compile(r'data-post="([^"/]+)/(\d+)"')
 TIME_RE = re.compile(r'datetime="([^"]+)"')
@@ -20,7 +19,7 @@ def _valid_secret(s: str) -> bool:
             return False
     else:
         return False
-    return 16 <= n <= 255      # faketls = 0xEE + 16   + 
+    return 16 <= n <= 255
 
 def parse_proxy_url(u: str):
     u = html.unescape(u)
@@ -52,13 +51,13 @@ def parse_page(html_text: str, max_age_days: int = 7):
 
     for i, m in enumerate(marks):
         end = marks[i + 1].start() if i + 1 < len(marks) else len(html_text)
-        block, post_id = html_text[m.start():end], int(m.group(2))
+        block, html_text[m.start():end], int(m.group(2))
 
         t = TIME_RE.search(block)
         if t:
             try:
                 if datetime.fromisoformat(t.group(1)) < cutoff:
-                    continue          #  —  
+                    continue
             except ValueError:
                 pass
 
@@ -71,39 +70,37 @@ def parse_page(html_text: str, max_age_days: int = 7):
 def fetch_channel(name: str, pages: int = 4, max_age_days: int = 7):
     found, before = [], None
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"}
-    with httpx.Client(timeout=20, headers=headers, follow_redirects=True) as c:
-        for _ in range(pages):
-            url = f"https://t.me/s/{name}"
-            if before:
-                url += f"?before={before}"
-            try:
-                r = c.get(url)
-            except Exception as e:
-                print(f"  [{name}] network error: {e}")
-                break
-            if r.status_code != 200 or 'tgme_widget_message' not in r.text:
-                break
-            items, oldest = parse_page(r.text, max_age_days)
-            found += items
-            if not oldest or oldest <= 1:
-                break
-            before = oldest
-            time.sleep(1.5)          #   rate limit 
+    for _ in range(pages):
+        url = f"https://t.me/s/{name}"
+        if before:
+            url += f"?before={before}"
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=20) as r:
+                if r.status != 200:
+                    break
+                text = r.read(2_000_000).decode("utf-8", errors="replace")
+        except Exception as e:
+            print(f"  [{name}] network error: {e}")
+            break
+        if 'tgme_widget_message' not in text:
+            break
+        items, oldest = parse_page(text, max_age_days)
+        found += items
+        if not oldest or oldest <= 1:
+            break
+        before = oldest
+        time.sleep(1.5)
     print(f"  [{name}] {len(found)} proxies")
     return found
 
-CHANNELS = [
-    "MTProtoProxies",
-    "ProxyMTProto",
-    "mtp4tg",
-    "socks5_mtproto",
-]
-
-def collect_from_channels():
+def collect_from_channels(channels=None):
+    if channels is None:
+        channels = ["MTProtoProxies", "ProxyMTProto", "mtp4tg", "socks5_mtproto"]
     all_p = []
-    for ch in CHANNELS:
+    for ch in channels:
         try:
             all_p += fetch_channel(ch)
         except Exception as e:
-            print(f"  [{ch}] FAILED: {e}")   #   build  
+            print(f"  [{ch}] FAILED: {e}")
     return all_p
