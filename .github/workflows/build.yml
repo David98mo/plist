@@ -2,7 +2,6 @@ name: build
 
 on:
   schedule:
-    # اجرا در دقیقه ۱۷ هر ۶ ساعت (زمان‌بندی تصادفی برای جلوگیری از ترافیک سنگین سرورهای گیت‌هاب)
     - cron: "17 */6 * * *"
   workflow_dispatch:
 
@@ -19,7 +18,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # نوشتن تاریخ و ساعت جدید در فایل هارت‌بیت
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build list
+        id: build
+        run: python3 src/build.py
+
+      - name: Sign payload
+        if: steps.build.outputs.changed == 'true'
+        env:
+          SIGNING_KEY: ${{ secrets.SIGNING_KEY }}
+        run: |
+          printf '%s' "$SIGNING_KEY" > /tmp/private.pem
+          openssl dgst -sha256 -sign /tmp/private.pem -out /tmp/sig.bin docs/list.json
+          base64 -w0 /tmp/sig.bin > docs/list.json.sig
+          rm -f /tmp/private.pem
+
       - name: Write heartbeat
         run: date -u +"%Y-%m-%dT%H:%M:%SZ" > heartbeat.txt
 
@@ -28,9 +44,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          if git diff --cached --quiet; then
-            echo "nothing changed, skipping commit"
-            exit 0
-          fi
-          git commit -m "chore: heartbeat $(date -u +%FT%TZ)"
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "chore: update list $(date -u +%FT%TZ)"
           git push
