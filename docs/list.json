@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T06:53:53Z",
+  "generated_at": "2026-08-28T11:27:39Z",
   "ttl_seconds": 21600,
   "mirrors": [
     "https://david98mo.github.io/plist/list.json",
@@ -25,7 +25,13 @@
       "type": "mtproto",
       "host": "135.181.129.162",
       "port": 443,
-      "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
+      "host": "135.181.74.178",
+      "port": 443,
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
     },
     {
       "type": "mtproto",
@@ -251,6 +257,12 @@
     },
     {
       "type": "mtproto",
+      "host": "65.21.222.229",
+      "port": 443,
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
       "host": "65.21.227.199",
       "port": 443,
       "secret": "ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d"
@@ -258,6 +270,12 @@
     {
       "type": "mtproto",
       "host": "65.21.234.20",
+      "port": 443,
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
+      "host": "65.21.83.248",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
     },
@@ -395,12 +413,6 @@
     },
     {
       "type": "mtproto",
-      "host": "91-107-147-7.nip.io",
-      "port": 443,
-      "secret": "8O6wvZrcT9SpOZTuOyohaw=="
-    },
-    {
-      "type": "mtproto",
       "host": "91.107.160.196",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -473,12 +485,6 @@
     },
     {
       "type": "mtproto",
-      "host": "alone.telbet.app",
-      "port": 80,
-      "secret": "3RbZ3hNtxAbJ6L5BQipx2_s"
-    },
-    {
-      "type": "mtproto",
       "host": "anchor.lovely.lat",
       "port": 443,
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
@@ -500,12 +506,6 @@
       "host": "api.server2-5mk.info",
       "port": 443,
       "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-    },
-    {
-      "type": "mtproto",
-      "host": "api2.kvakzon.top",
-      "port": 443,
-      "secret": "eef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70"
     },
     {
       "type": "mtproto",
@@ -947,6 +947,12 @@
     },
     {
       "type": "mtproto",
+      "host": "gate.24starsmarket.ru",
+      "port": 443,
+      "secret": "ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "gateway.lovely.lat",
       "port": 443,
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
@@ -1235,12 +1241,6 @@
     },
     {
       "type": "mtproto",
-      "host": "lobiamarket.co.uk",
-      "port": 443,
-      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-    },
-    {
-      "type": "mtproto",
       "host": "logs.jinxandjack.co.uk",
       "port": 443,
       "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ"
@@ -1475,12 +1475,6 @@
     },
     {
       "type": "mtproto",
-      "host": "node.easyproxy.cfd",
-      "port": 443,
-      "secret": "ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664"
-    },
-    {
-      "type": "mtproto",
       "host": "node.lovely.lat",
       "port": 443,
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
@@ -1634,12 +1628,6 @@
       "host": "relay.lovely.lat",
       "port": 443,
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "type": "mtproto",
-      "host": "relay.rknsosi.shop",
-      "port": 443,
-      "secret": "ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70"
     },
     {
       "type": "mtproto",
@@ -1958,12 +1946,6 @@
       "host": "ultima.telehelp.top",
       "port": 443,
       "secret": "eedffa323b22e7ab155f9806c3c9629f8c756c74696d612e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
-      "host": "uptime.speed-benz.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
