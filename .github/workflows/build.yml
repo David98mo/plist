@@ -32,8 +32,8 @@ jobs:
           SIGNING_KEY: ${{ secrets.SIGNING_KEY }}
         run: |
           printf '%s' "$SIGNING_KEY" > /tmp/private.pem
-          openssl dgst -sha256 -sign /tmp/private.pem -out /tmp/sig.bin docs/list.json
-          base64 -w0 /tmp/sig.bin > docs/list.json.sig
+          openssl dgst -sha256 -sign /tmp/private.pem -out /tmp/sig.bin docs/v1/list.json
+          base64 -w0 /tmp/sig.bin > docs/v1/list.json.sig
           rm -f /tmp/private.pem
 
       - name: Write heartbeat

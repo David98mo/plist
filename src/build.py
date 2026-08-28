@@ -27,7 +27,7 @@ from datetime import datetime, timezone
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 SOURCES_PATH = os.path.join(HERE, "sources.json")
-OUT_PATH = os.path.join(REPO, "docs", "list.json")
+OUT_PATH = os.path.join(REPO, "docs", "v1", "list.json")
 
 SCHEMA_VERSION = 1
 USER_AGENT = "plist-aggregator/1.0 (+https://github.com/david98mo/plist)"

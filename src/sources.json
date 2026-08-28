@@ -2,10 +2,10 @@
   "version": 1,
   "ttl_seconds": 21600,
   "mirrors": [
-    "https://david98mo.github.io/plist/list.json",
-    "https://cdn.jsdelivr.net/gh/david98mo/plist@main/docs/list.json",
-    "https://raw.githubusercontent.com/david98mo/plist/main/docs/list.json",
-    "https://plist-7nm.pages.dev/list.json"
+    "https://david98mo.github.io/plist/v1/list.json",
+    "https://cdn.jsdelivr.net/gh/david98mo/plist@main/docs/v1/list.json",
+    "https://raw.githubusercontent.com/david98mo/plist/main/docs/v1/list.json",
+    "https://plist-7nm.pages.dev/v1/list.json"
   ],
   "limits": {
     "max_proxies": 5000,
