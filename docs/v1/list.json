@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T16:27:08Z",
+  "generated_at": "2026-09-10T20:54:05Z",
   "ttl_seconds": 21600,
   "mirrors": [
     "https://david98mo.github.io/plist/v1/list.json",
@@ -563,6 +563,12 @@
     },
     {
       "type": "mtproto",
+      "host": "89.144.35.35",
+      "port": 88,
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    },
+    {
+      "type": "mtproto",
       "host": "8nvfg1.ir.ir.ir.meli-n12.info",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
@@ -656,6 +662,12 @@
       "host": "are.ajjab.co.uk",
       "port": 8880,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "as.mkim.click",
+      "port": 443,
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     },
     {
       "type": "mtproto",
@@ -761,6 +773,12 @@
     },
     {
       "type": "mtproto",
+      "host": "cdn10.cdnwave.org",
+      "port": 443,
+      "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "cdn12.cdnwave.org",
       "port": 443,
       "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275"
@@ -773,9 +791,9 @@
     },
     {
       "type": "mtproto",
-      "host": "cdn5.cdnwave.org",
+      "host": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
       "port": 443,
-      "secret": "ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275"
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     },
     {
       "type": "mtproto",
@@ -884,6 +902,12 @@
       "host": "fast.its-work.ru",
       "port": 443,
       "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "finka.flarevpn.icu",
+      "port": 443,
+      "secret": "ee1a31e852cedfd9537e1463f6532bd6ce7777772e636c6f7564666c6172652e636f6d"
     },
     {
       "type": "mtproto",
@@ -1211,12 +1235,6 @@
     },
     {
       "type": "mtproto",
-      "host": "l01.antenna-mzt.live",
-      "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665"
-    },
-    {
-      "type": "mtproto",
       "host": "l07.ir.ir.ir.meli-n12.info",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1313,15 +1331,9 @@
     },
     {
       "type": "mtproto",
-      "host": "media2.happtg.org",
+      "host": "media14.happtg.org",
       "port": 443,
-      "secret": "ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275"
-    },
-    {
-      "type": "mtproto",
-      "host": "media6.happtg.org",
-      "port": 443,
-      "secret": "ee7391242569590e01416101927d38b565646e732d73686f702e7275"
+      "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275"
     },
     {
       "type": "mtproto",
@@ -1535,6 +1547,12 @@
     },
     {
       "type": "mtproto",
+      "host": "persian.gulf.ir.olsjddhf.info",
+      "port": 88,
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
+    },
+    {
+      "type": "mtproto",
       "host": "pesar.nanaz.co.uk",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1550,12 +1568,6 @@
       "host": "porsorate.co.uk",
       "port": 4455,
       "secret": "dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "mtproto",
-      "host": "predator-artist.top",
-      "port": 853,
-      "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
     },
     {
       "type": "mtproto",
@@ -1715,12 +1727,6 @@
     },
     {
       "type": "mtproto",
-      "host": "s8.assetflux.org",
-      "port": 443,
-      "secret": "eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275"
-    },
-    {
-      "type": "mtproto",
       "host": "sahel.saheledarya.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1730,6 +1736,12 @@
       "host": "sefid.goooalir.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "serv2.link-in.cc",
+      "port": 443,
+      "secret": "ee8002d8c7a7f8779817c00ca932e1a3a4636c6f75642e63646e2e79616e6465782e636f6d"
     },
     {
       "type": "mtproto",
@@ -1764,12 +1776,6 @@
     {
       "type": "mtproto",
       "host": "shared.ddproxy.xyz",
-      "port": 443,
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
-      "type": "mtproto",
-      "host": "shared1.ddproxy.xyz",
       "port": 443,
       "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
     },
@@ -1841,9 +1847,9 @@
     },
     {
       "type": "mtproto",
-      "host": "static.antenna-mzt.live",
-      "port": 443,
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+      "host": "strait-of-hormuz.ir.jursdheks.info",
+      "port": 88,
+      "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d"
     },
     {
       "type": "mtproto",
@@ -1913,6 +1919,12 @@
     },
     {
       "type": "mtproto",
+      "host": "tea.hotstbvs.ru",
+      "port": 8843,
+      "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "teranhavaei.charkhofalak.info",
       "port": 7799,
       "secret": "dd10400103324995b07c030386e886e7f1"
@@ -1921,7 +1933,7 @@
       "type": "mtproto",
       "host": "tg.aezakmi.org",
       "port": 443,
-      "secret": "eea58fd9b89abdbab2be10da11c8d324f67777772e676f6f676c652e636f6d"
+      "secret": "ee2d08cf6e8aaff2febda481f0a5f0cc4f74672e61657a616b6d692e6f7267"
     },
     {
       "type": "mtproto",
@@ -1970,12 +1982,6 @@
       "host": "vatan.goooalir.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "mtproto",
-      "host": "video1.lastochka.cloud",
-      "port": 443,
-      "secret": "eea732400de1a4a78050c262ea27b01a35706574726f766963682e7275"
     },
     {
       "type": "mtproto",
@@ -2035,7 +2041,7 @@
       "type": "mtproto",
       "host": "x.shmelproxy.top",
       "port": 443,
-      "secret": "eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275"
+      "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275"
     },
     {
       "type": "mtproto",
@@ -2045,9 +2051,21 @@
     },
     {
       "type": "mtproto",
+      "host": "yazaebalsyadelatproxy.uk",
+      "port": 443,
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "type": "mtproto",
       "host": "yeke-jahan.mohearn.co.uk",
       "port": 443,
       "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "ykima.davay.click",
+      "port": 443,
+      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
     },
     {
       "type": "mtproto",
