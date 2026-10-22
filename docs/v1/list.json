@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T17:13:49Z",
+  "generated_at": "2026-10-22T21:39:37Z",
   "ttl_seconds": 21600,
   "mirrors": [
     "https://david98mo.github.io/plist/v1/list.json",
@@ -9,6 +9,12 @@
     "https://plist-7nm.pages.dev/v1/list.json"
   ],
   "proxies": [
+    {
+      "type": "mtproto",
+      "host": "0000way.iraj.trsr57d.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
     {
       "type": "mtproto",
       "host": "0u0006.ir.ir.ir.meli-n12.info",
@@ -92,6 +98,18 @@
       "host": "176.65.135.69",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.107.158",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.233.73",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
     },
     {
       "type": "mtproto",
@@ -311,6 +329,12 @@
     },
     {
       "type": "mtproto",
+      "host": "333.mtprotonewrunningproxasia.info",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "3etare.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -347,7 +371,7 @@
     },
     {
       "type": "mtproto",
-      "host": "65.108.123.76",
+      "host": "65.109.147.34",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
     },
@@ -431,6 +455,12 @@
     },
     {
       "type": "mtproto",
+      "host": "89.167.29.101",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "91.107.140.144",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -464,6 +494,12 @@
       "host": "91.98.97.225",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "94.130.15.206",
+      "port": 443,
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
     },
     {
       "type": "mtproto",
@@ -539,6 +575,12 @@
     },
     {
       "type": "mtproto",
+      "host": "babak-khoramdin.ir.aysghfkzcxg.info",
+      "port": 7443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "baran.goooalir.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
@@ -566,6 +608,12 @@
       "host": "bo.cryptocurency.wiki",
       "port": 443,
       "secret": "eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69"
+    },
+    {
+      "type": "mtproto",
+      "host": "bo0ji.co.uk",
+      "port": 443,
+      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
     },
     {
       "type": "mtproto",
@@ -671,6 +719,18 @@
     },
     {
       "type": "mtproto",
+      "host": "delvari.ir.aysghfkzcxg.info",
+      "port": 7443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "demaga57.tidelark.cc",
+      "port": 443,
+      "secret": "ee9267d78681726d5ff1bf826b750ba4ba64656d61676135372e746964656c61726b2e6363"
+    },
+    {
+      "type": "mtproto",
       "host": "deraka22.amberreed.top",
       "port": 443,
       "secret": "ee920a4026fcc79354d87c30db9280e578646572616b6132322e616d626572726565642e746f70"
@@ -710,6 +770,12 @@
       "host": "dizgrakh.mamadali.co.uk",
       "port": 4455,
       "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "dns.speed-benz.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -821,12 +887,6 @@
     },
     {
       "type": "mtproto",
-      "host": "gram.blog",
-      "port": 853,
-      "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
-    },
-    {
-      "type": "mtproto",
       "host": "great.cipservice.co.uk",
       "port": 2096,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -863,13 +923,31 @@
     },
     {
       "type": "mtproto",
+      "host": "honar.saheledarya.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "https-cdn-ddns.itdeveloper.info",
       "port": 88,
       "secret": "7nnnAQIAAQAH8AMDhuJMOt0"
     },
     {
       "type": "mtproto",
+      "host": "im.dumaniltd.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "ir-ir.ariely.info",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "ir-ir.ataman.info",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMjdCQ"
     },
@@ -1097,6 +1175,12 @@
     },
     {
       "type": "mtproto",
+      "host": "kaveh-ahangar.ir.aysghfkzcxg.info",
+      "port": 7443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "kavima49.mosswren.vip",
       "port": 443,
       "secret": "ee6ce7aa9636179a5f67366aaab4702a266b6176696d6134392e6d6f73737772656e2e766970"
@@ -1241,6 +1325,12 @@
     },
     {
       "type": "mtproto",
+      "host": "milo44.mosswren.vip",
+      "port": 443,
+      "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6d696c6f34342e6d6f73737772656e2e766970"
+    },
+    {
+      "type": "mtproto",
       "host": "mimizo19.tidelark.cc",
       "port": 443,
       "secret": "ee6ce7aa9636179a5f67366aaab4702a266d696d697a6f31392e746964656c61726b2e6363"
@@ -1259,6 +1349,12 @@
     },
     {
       "type": "mtproto",
+      "host": "mofid.saheledarya.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "mt.wexproxy.com",
       "port": 8443,
       "secret": "7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ"
@@ -1268,12 +1364,6 @@
       "host": "mt1.kurduk.store",
       "port": 443,
       "secret": "ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265"
-    },
-    {
-      "type": "mtproto",
-      "host": "mtproxygram.lol",
-      "port": 853,
-      "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
     },
     {
       "type": "mtproto",
@@ -1346,12 +1436,6 @@
       "host": "nigan.goooalir.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "mtproto",
-      "host": "nkhpngk.co.ir",
-      "port": 465,
-      "secret": "eeba4032bb5b4ccb12dce4e927f5d1cab66d61696c2e746563686e6f6c6966652e636f6d"
     },
     {
       "type": "mtproto",
@@ -1481,6 +1565,12 @@
     },
     {
       "type": "mtproto",
+      "host": "ponyzo32.tidelark.cc",
+      "port": 443,
+      "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363"
+    },
+    {
+      "type": "mtproto",
       "host": "pooran.ir.awedsj.info",
       "port": 7443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -1535,6 +1625,12 @@
     },
     {
       "type": "mtproto",
+      "host": "r3.soft98.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "rade94.tidelark.cc",
       "port": 443,
       "secret": "ee214011ba04108a7b1836df3a5e918b3b7261646539342e746964656c61726b2e6363"
@@ -1574,12 +1670,6 @@
       "host": "redflag.yazaebalsyadelatproxy.uk",
       "port": 443,
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "type": "mtproto",
-      "host": "redflag.yazaebalsyadelatproxy.vip",
-      "port": 443,
-      "secret": "eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
     },
     {
       "type": "mtproto",
@@ -1793,6 +1883,12 @@
     },
     {
       "type": "mtproto",
+      "host": "sumi71.mosswren.vip",
+      "port": 443,
+      "secret": "ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970"
+    },
+    {
+      "type": "mtproto",
       "host": "sune79.mosswren.vip",
       "port": 443,
       "secret": "eeb0a621aecd97816306c197d21a8bf47b73756e6537392e6d6f73737772656e2e766970"
@@ -1844,6 +1940,12 @@
       "host": "tex.l1.mu.pe.6c.bep.0y.xd.n.te.77-35-93-6.ir",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "tg.getsurfvpn.com",
+      "port": 443,
+      "secret": "eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070"
     },
     {
       "type": "mtproto",
@@ -1943,6 +2045,12 @@
     },
     {
       "type": "mtproto",
+      "host": "ultra.mishutkin.click",
+      "port": 443,
+      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    },
+    {
+      "type": "mtproto",
       "host": "usb.neo-duo.co.uk",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMJdCQ"
@@ -1980,12 +2088,6 @@
     {
       "type": "mtproto",
       "host": "web.mangoseason7.co.uk",
-      "port": 2096,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
-      "host": "white.antony-gordon.co.uk",
       "port": 2096,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
@@ -2776,6 +2878,11 @@
     {
       "type": "socks5",
       "host": "103.239.201.10",
+      "port": 58765
+    },
+    {
+      "type": "socks5",
+      "host": "103.239.201.33",
       "port": 58765
     },
     {
@@ -12086,6 +12193,11 @@
     {
       "type": "socks5",
       "host": "171.245.71.194",
+      "port": 1097
+    },
+    {
+      "type": "socks5",
+      "host": "171.245.71.194",
       "port": 1111
     },
     {
@@ -12122,6 +12234,11 @@
       "type": "socks5",
       "host": "171.245.71.217",
       "port": 1090
+    },
+    {
+      "type": "socks5",
+      "host": "171.245.71.217",
+      "port": 1102
     },
     {
       "type": "socks5",
@@ -23070,6 +23187,11 @@
     },
     {
       "type": "socks5",
+      "host": "195.58.38.35",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "195.63.135.47",
       "port": 10808
     },
@@ -25247,111 +25369,6 @@
       "type": "socks5",
       "host": "223.254.141.102",
       "port": 6610
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6612
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6615
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6621
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6622
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6626
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6628
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6630
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6632
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6635
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6636
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6637
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6642
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6646
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6648
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6649
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6650
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6651
-    },
-    {
-      "type": "socks5",
-      "host": "223.254.141.102",
-      "port": 6653
-    },
-    {
-      "type": "socks5",
-      "host": "223.72.125.40",
-      "port": 2000
-    },
-    {
-      "type": "socks5",
-      "host": "223.72.47.14",
-      "port": 6080
-    },
-    {
-      "type": "socks5",
-      "host": "223.72.47.33",
-      "port": 6080
     }
   ]
 }
