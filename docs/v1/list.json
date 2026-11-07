@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T19:27:06Z",
+  "generated_at": "2026-11-07T06:03:30Z",
   "ttl_seconds": 21600,
   "mirrors": [
     "https://david98mo.github.io/plist/v1/list.json",
@@ -23,12 +23,6 @@
     },
     {
       "type": "mtproto",
-      "host": "109.120.183.165",
-      "port": 2302,
-      "secret": "2084c7e58d8213296a3206da70356c81"
-    },
-    {
-      "type": "mtproto",
       "host": "135.181.74.183",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -41,15 +35,15 @@
     },
     {
       "type": "mtproto",
-      "host": "164.37.224.216",
-      "port": 443,
-      "secret": "ddc62c6006d0a383e80aab9f1b8a233856"
-    },
-    {
-      "type": "mtproto",
       "host": "168.119.142.46",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
+      "host": "169.58.86.18",
+      "port": 443,
+      "secret": "ee85dc3d6c2900e59b6f97f68ee7d1e349676f6f676c65617069732e636f6d"
     },
     {
       "type": "mtproto",
@@ -62,6 +56,30 @@
       "host": "176.65.135.69",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.127.56",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.137.152",
+      "port": 443,
+      "secret": "eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.141.172",
+      "port": 443,
+      "secret": "ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "178.105.201.7",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
     },
     {
       "type": "mtproto",
@@ -98,12 +116,6 @@
       "host": "191.44.113.201",
       "port": 443,
       "secret": "eef4b4eaeceb1a9e4a9a6a962012cdb5fa7a6f6f6d2e7573"
-    },
-    {
-      "type": "mtproto",
-      "host": "193.23.221.174",
-      "port": 2222,
-      "secret": "ddf8a79ccba519fb1c435b43d3d3ddd489"
     },
     {
       "type": "mtproto",
@@ -221,6 +233,12 @@
     },
     {
       "type": "mtproto",
+      "host": "37.23.117.178",
+      "port": 7997,
+      "secret": "eea0fdabe1d65015dab63bfa14af873e5f626979736b32322e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "3etare.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -233,9 +251,27 @@
     },
     {
       "type": "mtproto",
+      "host": "49.12.36.40",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "521.mmd1.meli-n12.info",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "5ti.do.ru7.lq.v.8v.ir.ir.ir.pd.8kmc.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQAAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "type": "mtproto",
+      "host": "62.238.62.179",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -275,6 +311,12 @@
     },
     {
       "type": "mtproto",
+      "host": "6621.mmd1.meli-n12.info",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "731.masi.ir.he6fhd.ru",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
@@ -305,9 +347,9 @@
     },
     {
       "type": "mtproto",
-      "host": "77z.telehelp.top",
-      "port": 443,
-      "secret": "ee35888c63447fbe850611413ae180958f37377a2e74656c6568656c702e746f70"
+      "host": "78.154.103.41",
+      "port": 14525,
+      "secret": "ee57413039fdb20b14e05c0af86bebf7497777772e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -473,15 +515,15 @@
     },
     {
       "type": "mtproto",
-      "host": "85.9.221.39",
-      "port": 443,
-      "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
-    },
-    {
-      "type": "mtproto",
       "host": "87.58.149.247",
       "port": 443,
       "secret": "eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "8j.nm.dor.pd.dp.setado.ir",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -503,12 +545,6 @@
     },
     {
       "type": "mtproto",
-      "host": "91.98.97.225",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
       "host": "92.246.87.242",
       "port": 443,
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0"
@@ -521,15 +557,15 @@
     },
     {
       "type": "mtproto",
-      "host": "ajab.lolauth.info",
-      "port": 8443,
-      "secret": "1603010200010001fc030386e24c3add"
+      "host": "ahvaz.co.uk",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
-      "host": "akenai.top",
-      "port": 853,
-      "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+      "host": "ajab.lolauth.info",
+      "port": 8443,
+      "secret": "1603010200010001fc030386e24c3add"
     },
     {
       "type": "mtproto",
@@ -545,12 +581,6 @@
     },
     {
       "type": "mtproto",
-      "host": "api.telehelp.top",
-      "port": 443,
-      "secret": "eeddb91021a77937c3d3d126503b5f88b76170692e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
       "host": "ardebill.miandoabs.info",
       "port": 8443,
       "secret": "1603010200010001fc030386e24c3add"
@@ -563,9 +593,21 @@
     },
     {
       "type": "mtproto",
+      "host": "as.mkim.click",
+      "port": 443,
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
+      "type": "mtproto",
       "host": "aseman.lunavane.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "ava.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -575,15 +617,39 @@
     },
     {
       "type": "mtproto",
+      "host": "baran.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "bastani.mikhay.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "becarefull.bypased.info",
       "port": 8443,
       "secret": "1603010200010001fc030386e24c3add"
     },
     {
       "type": "mtproto",
+      "host": "behtarin.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "best-speed.ir.bcsadwtgd.info",
       "port": 7443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "bfesedv.uk",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -599,15 +665,21 @@
     },
     {
       "type": "mtproto",
-      "host": "ccc.horizon555.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+      "host": "boost.telehelp.top",
+      "port": 443,
+      "secret": "eed4f42b03cae4d1a0f2e2a51454a6e0d7626f6f73742e74656c6568656c702e746f70"
     },
     {
       "type": "mtproto",
-      "host": "cdn.telehelp.top",
-      "port": 443,
-      "secret": "ee4f3308bc6f67badccc790bf30f15f3de63646e2e74656c6568656c702e746f70"
+      "host": "boro.poolaki.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "bur.9h.xju.e.yo.4d.1kp.ir",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -620,12 +692,6 @@
       "host": "cdn1.magli200.info",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
-      "host": "cdnwave.org",
-      "port": 443,
-      "secret": "ee5eedcb160ad8ac83ff7a1516474692d8706574726f766963682e7275"
     },
     {
       "type": "mtproto",
@@ -653,9 +719,21 @@
     },
     {
       "type": "mtproto",
+      "host": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
+      "port": 443,
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "citrus.driftquill.click",
       "port": 8443,
       "secret": "ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275"
+    },
+    {
+      "type": "mtproto",
+      "host": "cocorichmond.pareporeh.info",
+      "port": 7799,
+      "secret": "dd10400103324995b07c030386e886e7f1"
     },
     {
       "type": "mtproto",
@@ -671,6 +749,12 @@
     },
     {
       "type": "mtproto",
+      "host": "cr777.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "craft.malavanann.co.uk",
       "port": 2083,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -680,6 +764,12 @@
       "host": "cu.mp.6h.sp.4d.mip.ts5.f2h.gk.w.13-905-33-84.ir",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "d1.jadroom.co.uk",
+      "port": 443,
+      "secret": "3RBEYoISSb16xRkTAiDCXQk"
     },
     {
       "type": "mtproto",
@@ -695,15 +785,21 @@
     },
     {
       "type": "mtproto",
-      "host": "dashi.estabonita.co.uk",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
       "host": "dede19.tidelark.cc",
       "port": 443,
       "secret": "ee41ee77d8b25bda2a9843be139200384d6465646531392e746964656c61726b2e6363"
+    },
+    {
+      "type": "mtproto",
+      "host": "deka41.mosswren.vip",
+      "port": 443,
+      "secret": "ee6ce7aa9636179a5f67366aaab4702a2664656b6134312e6d6f73737772656e2e766970"
+    },
+    {
+      "type": "mtproto",
+      "host": "dekavi15.tidalbirch.sbs",
+      "port": 8443,
+      "secret": "ee55ac01040430b4fd76a2df5b8e819e5164726976652e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -716,12 +812,6 @@
       "host": "dele89.quillmarsh.xyz",
       "port": 8443,
       "secret": "ee704c9352bad79b00f1e067772277715664726976652e676f6f676c652e636f6d"
-    },
-    {
-      "type": "mtproto",
-      "host": "demaga57.tidelark.cc",
-      "port": 443,
-      "secret": "ee9267d78681726d5ff1bf826b750ba4ba64656d61676135372e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -773,15 +863,27 @@
     },
     {
       "type": "mtproto",
-      "host": "dns.speed-benz.co.uk",
+      "host": "dl.linux-orggv.co.uk",
       "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
       "host": "do.anotelinopalk.co.uk",
       "port": 8880,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "dokhtar.nanaz.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "eshkal-nadare.vasledada.info",
+      "port": 8443,
+      "secret": "1603010200010001fc030386e24c3add"
     },
     {
       "type": "mtproto",
@@ -797,15 +899,15 @@
     },
     {
       "type": "mtproto",
-      "host": "extra.telehelp.top",
-      "port": 443,
-      "secret": "eeb6a93decde91e756ff56c3ce040e1ae064726976652e676f6f676c652e636f6d"
-    },
-    {
-      "type": "mtproto",
       "host": "fame.saalaad.info",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "fast.finecooking.info",
+      "port": 443,
+      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
     },
     {
       "type": "mtproto",
@@ -833,9 +935,9 @@
     },
     {
       "type": "mtproto",
-      "host": "fleet.telehelp.top",
-      "port": 443,
-      "secret": "ee77bbf78a169e505b117bc2c1df39463d666c6565742e74656c6568656c702e746f70"
+      "host": "foc.pf.og.mro.7f.j7.spb.f.lwww.ir",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -857,6 +959,12 @@
     },
     {
       "type": "mtproto",
+      "host": "from.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "fruit.golgoli2.co.uk",
       "port": 2096,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -866,6 +974,12 @@
       "host": "gale97.mosswren.vip",
       "port": 443,
       "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d67616c6539372e6d6f73737772656e2e766970"
+    },
+    {
+      "type": "mtproto",
+      "host": "gane86.tidelark.cc",
+      "port": 443,
+      "secret": "eecd7b5204a28b47f7cc34c6735743360867616e6538362e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -881,12 +995,6 @@
     },
     {
       "type": "mtproto",
-      "host": "gavi88.mosswren.vip",
-      "port": 443,
-      "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56761766938382e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
       "host": "gazo19.mosswren.vip",
       "port": 443,
       "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d67617a6f31392e6d6f73737772656e2e766970"
@@ -896,6 +1004,12 @@
       "host": "ge2.kkkservers.tech",
       "port": 8443,
       "secret": "eef99731abbc063924c8b52c5cd7aeca3a6765322e6b6b6b736572766572732e74656368"
+    },
+    {
+      "type": "mtproto",
+      "host": "good.cipservice.co.uk",
+      "port": 2083,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -941,12 +1055,6 @@
     },
     {
       "type": "mtproto",
-      "host": "haji.estabonita.co.uk",
-      "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
       "host": "hash.anotelinopalk.co.uk",
       "port": 8880,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -962,18 +1070,6 @@
       "host": "hibf6.ir.lpfss.co.uk.i9l9.ir",
       "port": 8443,
       "secret": "7hYDAQIAAQAB_AMEhuJMOt0"
-    },
-    {
-      "type": "mtproto",
-      "host": "high.telehelp.top",
-      "port": 443,
-      "secret": "ee5b93eed4a729a5e53105623d8551dc3664726976652e676f6f676c652e636f6d"
-    },
-    {
-      "type": "mtproto",
-      "host": "honar.saheledarya.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -1014,6 +1110,12 @@
     {
       "type": "mtproto",
       "host": "ir-ir.gnutella2.info",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "ir-ir.goaphrodite.co.uk",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMjdCQ"
     },
@@ -1091,7 +1193,19 @@
     },
     {
       "type": "mtproto",
+      "host": "ir.dinocol.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "ir.genesbyjohn.info",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMjdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "ir.grasic.info",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMjdCQ"
     },
@@ -1145,6 +1259,12 @@
     },
     {
       "type": "mtproto",
+      "host": "ir.speed.finecooking.info",
+      "port": 443,
+      "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    },
+    {
+      "type": "mtproto",
       "host": "ir.strawberrybarn.co.uk",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMjdCQ"
@@ -1178,6 +1298,12 @@
       "host": "iran.ir.bcsadwtgd.info",
       "port": 7443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "irluxcars.site",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -1235,15 +1361,27 @@
     },
     {
       "type": "mtproto",
-      "host": "kabab.mikhay.co.uk",
+      "host": "joje.goooalir.co.uk",
       "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMJdCQ"
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "kagato24.mosswren.vip",
+      "port": 443,
+      "secret": "eecd7b5204a28b47f7cc34c673574336086b616761746f32342e6d6f73737772656e2e766970"
     },
     {
       "type": "mtproto",
       "host": "kalene97.fernlark.xyz",
       "port": 8443,
       "secret": "eea02849a55daccdc7f7a05691b7ef7cd164726976652e676f6f676c652e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "kane32.mosswren.vip",
+      "port": 8443,
+      "secret": "eeb2d71af96595ff01757060eac676054164726976652e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -1283,9 +1421,9 @@
     },
     {
       "type": "mtproto",
-      "host": "kavipo59.tidelark.cc",
-      "port": 443,
-      "secret": "ee9267d78681726d5ff1bf826b750ba4ba6b617669706f35392e746964656c61726b2e6363"
+      "host": "kavito20.quietfjord.click",
+      "port": 8443,
+      "secret": "ee24c8636b7e946779a023ee708370719b706574726f766963682e7275"
     },
     {
       "type": "mtproto",
@@ -1319,15 +1457,9 @@
     },
     {
       "type": "mtproto",
-      "host": "landzs7.telehelp.top",
-      "port": 443,
-      "secret": "ee63ef59e891eec304abaadcb29f12fe706c616e647a73372e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
-      "host": "lavashak.mikhay.co.uk",
+      "host": "kranch.golabkashan.info",
       "port": 8443,
-      "secret": "EERighJJvXrFGRMCIMJdCQ"
+      "secret": "1603010200010001fc030386e24c3add"
     },
     {
       "type": "mtproto",
@@ -1355,6 +1487,12 @@
     },
     {
       "type": "mtproto",
+      "host": "leomessi.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "levika43.fernlark.xyz",
       "port": 443,
       "secret": "eea02849a55daccdc7f7a05691b7ef7cd16c6576696b6134332e6665726e6c61726b2e78797a"
@@ -1379,21 +1517,9 @@
     },
     {
       "type": "mtproto",
-      "host": "lite.telehelp.top",
-      "port": 443,
-      "secret": "ee833cf117afc64c6a6dde267a1d1f35346c6974652e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
       "host": "lllllk.iraj.trsr57d.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "mtproto",
-      "host": "lode46.mosswren.vip",
-      "port": 443,
-      "secret": "ee6ce7aa9636179a5f67366aaab4702a266c6f646534362e6d6f73737772656e2e766970"
     },
     {
       "type": "mtproto",
@@ -1406,6 +1532,12 @@
       "host": "logato78.tidelark.cc",
       "port": 443,
       "secret": "eeb0a621aecd97816306c197d21a8bf47b6c6f6761746f37382e746964656c61726b2e6363"
+    },
+    {
+      "type": "mtproto",
+      "host": "lolo65.quillmarsh.xyz",
+      "port": 8443,
+      "secret": "eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275"
     },
     {
       "type": "mtproto",
@@ -1445,9 +1577,15 @@
     },
     {
       "type": "mtproto",
-      "host": "lumen.telehelp.top",
-      "port": 443,
-      "secret": "ee5c1ca7579cc3561a63ff915cd13e9c786c756d656e2e74656c6568656c702e746f70"
+      "host": "luxuryman.sbs",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "magaga67.mossharbor.xyz",
+      "port": 8443,
+      "secret": "ee28887325f2bb86770fa7caa8eb94c27264726976652e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -1469,18 +1607,6 @@
     },
     {
       "type": "mtproto",
-      "host": "male21.mosswren.vip",
-      "port": 443,
-      "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56d616c6532312e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
-      "host": "male58.mosswren.vip",
-      "port": 443,
-      "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6d616c6535382e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
       "host": "male61.birchquay.xyz",
       "port": 443,
       "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56d616c6536312e6269726368717561792e78797a"
@@ -1496,6 +1622,12 @@
       "host": "mami99.birchquay.xyz",
       "port": 443,
       "secret": "ee920a4026fcc79354d87c30db9280e5786d616d6939392e6269726368717561792e78797a"
+    },
+    {
+      "type": "mtproto",
+      "host": "mangoseason8.co.uk",
+      "port": 2096,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -1517,6 +1649,12 @@
     },
     {
       "type": "mtproto",
+      "host": "mari74.birchquay.xyz",
+      "port": 8443,
+      "secret": "ee4e5ae5f8da0208be46dae73a0fe764aa64726976652e676f6f676c652e636f6d"
+    },
+    {
+      "type": "mtproto",
       "host": "mashti-khan.ebimarh.info",
       "port": 8443,
       "secret": "1603010200010001fc030386e24c3add"
@@ -1526,12 +1664,6 @@
       "host": "math-test.bypased.info",
       "port": 8443,
       "secret": "1603010200010001fc030386e24c3add"
-    },
-    {
-      "type": "mtproto",
-      "host": "mato82.tidelark.cc",
-      "port": 443,
-      "secret": "ee162063fc602a74460eea3cb0135cc3196d61746f38322e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -1553,15 +1685,15 @@
     },
     {
       "type": "mtproto",
-      "host": "medium.telehelp.top",
-      "port": 443,
-      "secret": "eeea7500a9c0f0ea17067f675842aeb1cb6d656469756d2e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
       "host": "mercury.flarevpn.top",
       "port": 443,
       "secret": "ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564"
+    },
+    {
+      "type": "mtproto",
+      "host": "meshki.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -1589,21 +1721,9 @@
     },
     {
       "type": "mtproto",
-      "host": "misuga76.mosswren.vip",
-      "port": 443,
-      "secret": "ee24c8636b7e946779a023ee708370719b6d697375676137362e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
       "host": "mkima.davay.click",
       "port": 443,
       "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
-    },
-    {
-      "type": "mtproto",
-      "host": "mofid.saheledarya.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -1634,6 +1754,18 @@
       "host": "name.namenewok.info",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "napoli.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "narooo.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -1673,21 +1805,27 @@
     },
     {
       "type": "mtproto",
+      "host": "nema81.tidelark.cc",
+      "port": 8443,
+      "secret": "ee673380cc059c5546671209b982af782e64726976652e676f6f676c652e636f6d"
+    },
+    {
+      "type": "mtproto",
       "host": "neny42.tidelark.cc",
       "port": 443,
       "secret": "ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
-      "host": "nepo53.foxglade.xyz",
+      "host": "nepo38.tidelark.cc",
       "port": 443,
-      "secret": "ee214011ba04108a7b1836df3a5e918b3b6e65706f35332e666f78676c6164652e78797a"
+      "secret": "ee6ce7aa9636179a5f67366aaab4702a266e65706f33382e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
-      "host": "nesusu43.mosswren.vip",
+      "host": "nepo53.foxglade.xyz",
       "port": 443,
-      "secret": "ee09f38d6ea1aecd933be86f74656f43156e657375737534332e6d6f73737772656e2e766970"
+      "secret": "ee214011ba04108a7b1836df3a5e918b3b6e65706f35332e666f78676c6164652e78797a"
     },
     {
       "type": "mtproto",
@@ -1715,6 +1853,12 @@
     },
     {
       "type": "mtproto",
+      "host": "new7.mizanmizanesgh.co.uk",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
       "host": "newnvmb.telehelp.top",
       "port": 443,
       "secret": "ee6c0f8a0a46bb880b6ce93e8790a0528664726976652e676f6f676c652e636f6d"
@@ -1724,6 +1868,18 @@
       "host": "nice.rozinalpoku.co.uk",
       "port": 8080,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "nigan.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "nl7.h1cloud.net",
+      "port": 25108,
+      "secret": "ee48ad01672a61ed02ba8b1f28baa867c27777772e73616d73756e672e636f6d"
     },
     {
       "type": "mtproto",
@@ -1739,9 +1895,27 @@
     },
     {
       "type": "mtproto",
+      "host": "noon.begir.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "nooshabe.mikhay.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "nor-bala.flashspder.info",
       "port": 8443,
       "secret": "1603010200010001fc030386e24c3add"
+    },
+    {
+      "type": "mtproto",
+      "host": "nyka78.tidelark.cc",
+      "port": 443,
+      "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e56e796b6137382e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -1769,12 +1943,6 @@
     },
     {
       "type": "mtproto",
-      "host": "nyto59.mosswren.vip",
-      "port": 443,
-      "secret": "eefd9a9e2ac2851ddc327fe5971e25a87d6e79746f35392e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
       "host": "nyto92.foxglade.xyz",
       "port": 8443,
       "secret": "eea02849a55daccdc7f7a05691b7ef7cd1706574726f766963682e7275"
@@ -1793,12 +1961,6 @@
     },
     {
       "type": "mtproto",
-      "host": "one.horizon555.co.uk",
-      "port": 8443,
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
       "host": "one.rozinalpoku.co.uk",
       "port": 443,
       "secret": "ee1603010200010001fc030386e24c3add6F6E652E726F7A696E616C706F6B752E636F2E756B"
@@ -1808,12 +1970,6 @@
       "host": "org.mediaad.co.uk",
       "port": 8880,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
-      "host": "over.telehelp.top",
-      "port": 443,
-      "secret": "ee878e7aac944cd93088afc502214a1f7b6f7665722e74656c6568656c702e746f70"
     },
     {
       "type": "mtproto",
@@ -1829,6 +1985,18 @@
     },
     {
       "type": "mtproto",
+      "host": "panir.begir.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "pashmak.mikhay.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "paydar.goooalir.co.uk",
       "port": 8443,
       "secret": "dd104462821249bd7ac519130220c25d09"
@@ -1838,6 +2006,12 @@
       "host": "persia.bingi.co.uk",
       "port": 8443,
       "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "persian.gulf.ir.bcsadwtgd.info",
+      "port": 7443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -1877,6 +2051,12 @@
     },
     {
       "type": "mtproto",
+      "host": "pofak.mikhay.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "poka38.tidelark.cc",
       "port": 443,
       "secret": "eeb0a621aecd97816306c197d21a8bf47b706f6b6133382e746964656c61726b2e6363"
@@ -1889,19 +2069,25 @@
     },
     {
       "type": "mtproto",
+      "host": "polo57.quietfjord.click",
+      "port": 443,
+      "secret": "ee14697011e0c73f03e95d7b6919a2252b706f6c6f35372e7175696574666a6f72642e636c69636b"
+    },
+    {
+      "type": "mtproto",
       "host": "ponyny28.tidelark.cc",
       "port": 443,
       "secret": "eea02849a55daccdc7f7a05691b7ef7cd1706f6e796e7932382e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
-      "host": "ponyzo32.tidelark.cc",
-      "port": 443,
-      "secret": "eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363"
+      "host": "pooran.ir.awedsj.info",
+      "port": 7443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
-      "host": "pooran.ir.awedsj.info",
+      "host": "pooriyaye-vali.ir.igakwvwa.info",
       "port": 7443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
@@ -1913,21 +2099,15 @@
     },
     {
       "type": "mtproto",
+      "host": "posude79.fernlark.xyz",
+      "port": 443,
+      "secret": "ee37a60897c9ca648e94350eb8919ea47f706f7375646537392e6665726e6c61726b2e78797a"
+    },
+    {
+      "type": "mtproto",
       "host": "pozo12.saltfern.xyz",
       "port": 443,
       "secret": "ee14697011e0c73f03e95d7b6919a2252b706f7a6f31322e73616c746665726e2e78797a"
-    },
-    {
-      "type": "mtproto",
-      "host": "predator-artist.top",
-      "port": 853,
-      "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
-    },
-    {
-      "type": "mtproto",
-      "host": "proxy.lodkirmm.ru",
-      "port": 8443,
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
     },
     {
       "type": "mtproto",
@@ -1939,7 +2119,7 @@
       "type": "mtproto",
       "host": "pub.ultra-fast.cc",
       "port": 443,
-      "secret": "eecad23b6df92986eb1f0f72450c7f3a7a7075622e756c7472612d666173742e6363"
+      "secret": "ee68a7c4e0b9d30660f8b4d35bb3b8e4347075622e756c7472612d666173742e6363"
     },
     {
       "type": "mtproto",
@@ -1949,15 +2129,21 @@
     },
     {
       "type": "mtproto",
-      "host": "rad.irani-pr.net",
-      "port": 85,
+      "host": "qadim.zhigool.co.uk",
+      "port": 22,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "qin.do.c9.tsj.dl.y4.servervijhe.ir",
+      "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
-      "host": "raga84.mosswren.vip",
-      "port": 443,
-      "secret": "ee920a4026fcc79354d87c30db9280e5787261676138342e6d6f73737772656e2e766970"
+      "host": "rad.irani-pr.net",
+      "port": 85,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -1997,6 +2183,12 @@
     },
     {
       "type": "mtproto",
+      "host": "redflag.yazaebalsyadelatproxy.co.uk",
+      "port": 443,
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "type": "mtproto",
       "host": "redflag.yazaebalsyadelatproxy.com",
       "port": 443,
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
@@ -2011,7 +2203,19 @@
       "type": "mtproto",
       "host": "redflag.yazaebalsyadelatproxy.vip",
       "port": 443,
-      "secret": "ee13ad3d93bdcf5fed02b1252415631fd5726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
+      "secret": "ee9267d78681726d5ff1bf826b750ba4ba726564666c61672e79617a616562616c73796164656c617470726f78792e766970"
+    },
+    {
+      "type": "mtproto",
+      "host": "refiq.poolaki.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "reyhoon.shambelile.co.uk",
+      "port": 8443,
+      "secret": "EERighJJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -2033,18 +2237,6 @@
     },
     {
       "type": "mtproto",
-      "host": "rile85.mosswren.vip",
-      "port": 443,
-      "secret": "eeae5ab45be1bccbba85eec21085b2fd2072696c6538352e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
-      "host": "rimi99.birchquay.xyz",
-      "port": 8443,
-      "secret": "eea208439f89c551765bdc3a874edb0cde64726976652e676f6f676c652e636f6d"
-    },
-    {
-      "type": "mtproto",
       "host": "riny51.larchmere.xyz",
       "port": 443,
       "secret": "ee14697011e0c73f03e95d7b6919a2252b72696e7935312e6c617263686d6572652e78797a"
@@ -2057,9 +2249,9 @@
     },
     {
       "type": "mtproto",
-      "host": "rirara15.mosswren.vip",
+      "host": "rivisu64.tidelark.cc",
       "port": 443,
-      "secret": "eeae5ab45be1bccbba85eec21085b2fd2072697261726131352e6d6f73737772656e2e766970"
+      "secret": "ee214011ba04108a7b1836df3a5e918b3b72697669737536342e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -2075,9 +2267,15 @@
     },
     {
       "type": "mtproto",
-      "host": "ru1.telehelp.top",
-      "port": 443,
-      "secret": "ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d"
+      "host": "royaclinic.beauty",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "royaclinic.co.uk",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
     },
     {
       "type": "mtproto",
@@ -2117,12 +2315,6 @@
     },
     {
       "type": "mtproto",
-      "host": "salut.telehelp.top",
-      "port": 443,
-      "secret": "ee39a67a7ff5e534b8afba67e0a6bafdd373616c75742e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
       "host": "sarma.ir.bcsadwtgd.info",
       "port": 7443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -2147,7 +2339,31 @@
     },
     {
       "type": "mtproto",
+      "host": "sefid.goooalir.co.uk",
+      "port": 8443,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "severjadid.co.uk",
+      "port": 4455,
+      "secret": "dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "type": "mtproto",
+      "host": "shared.ddproxy.xyz",
+      "port": 443,
+      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
+    },
+    {
+      "type": "mtproto",
       "host": "shared1.ddproxy.xyz",
+      "port": 443,
+      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
+    },
+    {
+      "type": "mtproto",
+      "host": "shared2.ddproxy.xyz",
       "port": 443,
       "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
     },
@@ -2207,12 +2423,6 @@
     },
     {
       "type": "mtproto",
-      "host": "speed-speed.co.uk",
-      "port": 443,
-      "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-    },
-    {
-      "type": "mtproto",
       "host": "speed.runserver.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
@@ -2267,12 +2477,6 @@
     },
     {
       "type": "mtproto",
-      "host": "sukari30.tidelark.cc",
-      "port": 443,
-      "secret": "ee14697011e0c73f03e95d7b6919a2252b73756b61726933302e746964656c61726b2e6363"
-    },
-    {
-      "type": "mtproto",
       "host": "sulo31.tidelark.cc",
       "port": 443,
       "secret": "ee920a4026fcc79354d87c30db9280e57873756c6f33312e746964656c61726b2e6363"
@@ -2285,9 +2489,15 @@
     },
     {
       "type": "mtproto",
-      "host": "sune79.mosswren.vip",
+      "host": "sulone58.tidelark.cc",
       "port": 443,
-      "secret": "eeb0a621aecd97816306c197d21a8bf47b73756e6537392e6d6f73737772656e2e766970"
+      "secret": "ee24c8636b7e946779a023ee708370719b73756c6f6e6535382e746964656c61726b2e6363"
+    },
+    {
+      "type": "mtproto",
+      "host": "sumi59.mosswren.vip",
+      "port": 443,
+      "secret": "eeae5ab45be1bccbba85eec21085b2fd2073756d6935392e6d6f73737772656e2e766970"
     },
     {
       "type": "mtproto",
@@ -2300,12 +2510,6 @@
       "host": "support.infinityhalo.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "type": "mtproto",
-      "host": "surf.suslik-cloud.homes",
-      "port": 443,
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
     },
     {
       "type": "mtproto",
@@ -2351,9 +2555,27 @@
     },
     {
       "type": "mtproto",
+      "host": "tex.l1.mu.pe.6c.bep.0y.xd.n.te.77-35-93-6.ir",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "tg.wequ.lat",
+      "port": 443,
+      "secret": "0289a13d961b91438fea5069a8097cb3"
+    },
+    {
+      "type": "mtproto",
       "host": "tg3.rebirthconnect.com",
       "port": 443,
       "secret": "eefa363bb56fadd55d91a88924745ae54e7467332e72656269727468636f6e6e6563742e636f6d"
+    },
+    {
+      "type": "mtproto",
+      "host": "tig.ofok.tui.frt.7fg7.88n.jananeman.ir",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -2381,6 +2603,12 @@
     },
     {
       "type": "mtproto",
+      "host": "tolo60.fernlark.xyz",
+      "port": 443,
+      "secret": "ee920a4026fcc79354d87c30db9280e578746f6c6f36302e6665726e6c61726b2e78797a"
+    },
+    {
+      "type": "mtproto",
       "host": "tomide93.copperwren.click",
       "port": 443,
       "secret": "ee214011ba04108a7b1836df3a5e918b3b746f6d69646539332e636f707065727772656e2e636c69636b"
@@ -2405,12 +2633,6 @@
     },
     {
       "type": "mtproto",
-      "host": "topo15.mosswren.vip",
-      "port": 443,
-      "secret": "ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970"
-    },
-    {
-      "type": "mtproto",
       "host": "tori.fi.endpro.tech",
       "port": 443,
       "secret": "eee68e265d96da13efc2ce1337910da6de746f72692e6669"
@@ -2420,12 +2642,6 @@
       "host": "torobchesho.co.uk",
       "port": 443,
       "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b"
-    },
-    {
-      "type": "mtproto",
-      "host": "tozo31.tidelark.cc",
-      "port": 443,
-      "secret": "ee9267d78681726d5ff1bf826b750ba4ba746f7a6f33312e746964656c61726b2e6363"
     },
     {
       "type": "mtproto",
@@ -2447,12 +2663,6 @@
     },
     {
       "type": "mtproto",
-      "host": "ultima.telehelp.top",
-      "port": 443,
-      "secret": "eedffa323b22e7ab155f9806c3c9629f8c756c74696d612e74656c6568656c702e746f70"
-    },
-    {
-      "type": "mtproto",
       "host": "ultra.mishutkin.click",
       "port": 443,
       "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
@@ -2462,12 +2672,6 @@
       "host": "ultra.proxynet.tech",
       "port": 443,
       "secret": "eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368"
-    },
-    {
-      "type": "mtproto",
-      "host": "ultra.telehelp.top",
-      "port": 443,
-      "secret": "ee1d36cba6cc6ae2eb779806189b95efb864726976652e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -2543,15 +2747,27 @@
     },
     {
       "type": "mtproto",
+      "host": "web.mangoseason7.co.uk",
+      "port": 2096,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
       "host": "web.novitron.site",
       "port": 443,
       "secret": "eed8edb898a8f1cceb9ecc234ac83f2a337765622e6e6f766974726f6e2e73697465"
     },
     {
       "type": "mtproto",
-      "host": "wgram.telehelp.top",
-      "port": 443,
-      "secret": "ee6d49313978f53b9900717d9629a6195264726976652e676f6f676c652e636f6d"
+      "host": "web3.graduat.co.uk",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "web3.magli200.info",
+      "port": 8443,
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "type": "mtproto",
@@ -2693,12 +2909,6 @@
     },
     {
       "type": "mtproto",
-      "host": "yarypple.co.uk",
-      "port": 4455,
-      "secret": "dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "type": "mtproto",
       "host": "yeh.topbelka.ru",
       "port": 443,
       "secret": "ee050c8f82b0877cccd23a08c65f062b987275747562652e7275"
@@ -2711,9 +2921,21 @@
     },
     {
       "type": "mtproto",
+      "host": "ykima.davay.click",
+      "port": 443,
+      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
+    },
+    {
+      "type": "mtproto",
       "host": "you.nasakhamia.co.uk",
       "port": 8443,
       "secret": "eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "type": "mtproto",
+      "host": "z1.nevcodeframe.com",
+      "port": 443,
+      "secret": "eee5e0d75865263bccabe94c92f446184f7a312e6e6576636f64656672616d652e636f6d"
     },
     {
       "type": "mtproto",
@@ -2732,6 +2954,12 @@
       "host": "zolole21.larchmere.xyz",
       "port": 8443,
       "secret": "eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275"
+    },
+    {
+      "type": "mtproto",
+      "host": "zoto32.copperwren.click",
+      "port": 8443,
+      "secret": "ee3273480819998ba362f57567c6e689fe64726976652e676f6f676c652e636f6d"
     },
     {
       "type": "mtproto",
@@ -3882,6 +4110,11 @@
     },
     {
       "type": "socks5",
+      "host": "103.84.140.24",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "103.84.166.37",
       "port": 1080
     },
@@ -4223,6 +4456,11 @@
     {
       "type": "socks5",
       "host": "107.173.153.250",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "107.173.230.71",
       "port": 1080
     },
     {
@@ -5347,6 +5585,11 @@
     },
     {
       "type": "socks5",
+      "host": "116.167.32.89",
+      "port": 10808
+    },
+    {
+      "type": "socks5",
       "host": "116.172.234.154",
       "port": 1181
     },
@@ -5762,6 +6005,11 @@
     },
     {
       "type": "socks5",
+      "host": "119.28.233.187",
+      "port": 10086
+    },
+    {
+      "type": "socks5",
       "host": "119.63.130.153",
       "port": 1080
     },
@@ -5774,11 +6022,6 @@
       "type": "socks5",
       "host": "120.0.23.171",
       "port": 1083
-    },
-    {
-      "type": "socks5",
-      "host": "120.133.82.62",
-      "port": 44055
     },
     {
       "type": "socks5",
@@ -5868,11 +6111,6 @@
     {
       "type": "socks5",
       "host": "122.102.52.24",
-      "port": 1081
-    },
-    {
-      "type": "socks5",
-      "host": "122.102.52.24",
       "port": 1083
     },
     {
@@ -5888,6 +6126,11 @@
     {
       "type": "socks5",
       "host": "122.144.11.121",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "122.176.19.155",
       "port": 1080
     },
     {
@@ -6238,6 +6481,11 @@
     {
       "type": "socks5",
       "host": "13.48.67.78",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "13.58.166.251",
       "port": 1080
     },
     {
@@ -7239,6 +7487,11 @@
       "type": "socks5",
       "host": "143.14.61.112",
       "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "143.198.239.45",
+      "port": 10034
     },
     {
       "type": "socks5",
@@ -9112,6 +9365,36 @@
     },
     {
       "type": "socks5",
+      "host": "163.128.140.30",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "163.128.140.35",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "163.128.140.36",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "163.128.140.39",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "163.128.140.43",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "163.128.140.44",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "163.172.80.153",
       "port": 1080
     },
@@ -9423,7 +9706,17 @@
     {
       "type": "socks5",
       "host": "167.99.3.26",
-      "port": 5735
+      "port": 8091
+    },
+    {
+      "type": "socks5",
+      "host": "167.99.3.26",
+      "port": 9282
+    },
+    {
+      "type": "socks5",
+      "host": "167.99.3.26",
+      "port": 10818
     },
     {
       "type": "socks5",
@@ -10009,16 +10302,6 @@
       "type": "socks5",
       "host": "172.86.84.97",
       "port": 1072
-    },
-    {
-      "type": "socks5",
-      "host": "172.86.84.97",
-      "port": 1085
-    },
-    {
-      "type": "socks5",
-      "host": "172.86.84.97",
-      "port": 1088
     },
     {
       "type": "socks5",
@@ -10857,6 +11140,11 @@
     },
     {
       "type": "socks5",
+      "host": "178.158.36.113",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "178.158.52.196",
       "port": 1080
     },
@@ -11233,17 +11521,17 @@
     {
       "type": "socks5",
       "host": "180.93.102.159",
+      "port": 40002
+    },
+    {
+      "type": "socks5",
+      "host": "180.93.102.159",
       "port": 40007
     },
     {
       "type": "socks5",
       "host": "180.93.102.159",
-      "port": 40025
-    },
-    {
-      "type": "socks5",
-      "host": "180.93.102.159",
-      "port": 40034
+      "port": 40015
     },
     {
       "type": "socks5",
@@ -11363,6 +11651,11 @@
     {
       "type": "socks5",
       "host": "183.45.77.254",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "183.45.79.57",
       "port": 1080
     },
     {
@@ -11557,12 +11850,42 @@
     },
     {
       "type": "socks5",
+      "host": "185.121.133.133",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.121.133.141",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.121.133.143",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "185.121.133.144",
       "port": 1080
     },
     {
       "type": "socks5",
+      "host": "185.121.133.157",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.121.133.159",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "185.121.133.162",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.121.133.164",
       "port": 1080
     },
     {
@@ -11573,6 +11896,11 @@
     {
       "type": "socks5",
       "host": "185.121.133.166",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.121.133.174",
       "port": 1080
     },
     {
@@ -11947,6 +12275,11 @@
     },
     {
       "type": "socks5",
+      "host": "185.233.203.70",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "185.233.236.65",
       "port": 10808
     },
@@ -11983,6 +12316,11 @@
     {
       "type": "socks5",
       "host": "185.243.99.32",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "185.243.99.64",
       "port": 1080
     },
     {
@@ -12368,6 +12706,11 @@
     {
       "type": "socks5",
       "host": "188.113.182.218",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "188.120.203.191",
       "port": 1080
     },
     {
@@ -13642,11 +13985,6 @@
     },
     {
       "type": "socks5",
-      "host": "195.13.182.212",
-      "port": 8888
-    },
-    {
-      "type": "socks5",
       "host": "195.133.197.14",
       "port": 1080
     },
@@ -13813,7 +14151,7 @@
     {
       "type": "socks5",
       "host": "195.201.246.53",
-      "port": 1080
+      "port": 1081
     },
     {
       "type": "socks5",
@@ -13824,11 +14162,6 @@
       "type": "socks5",
       "host": "195.201.246.53",
       "port": 1084
-    },
-    {
-      "type": "socks5",
-      "host": "195.201.246.53",
-      "port": 1086
     },
     {
       "type": "socks5",
@@ -14392,6 +14725,11 @@
     },
     {
       "type": "socks5",
+      "host": "202.10.36.36",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "202.133.90.24",
       "port": 1080
     },
@@ -14528,6 +14866,16 @@
     {
       "type": "socks5",
       "host": "202.44.106.141",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "202.44.106.25",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "202.44.106.73",
       "port": 1080
     },
     {
@@ -15192,6 +15540,36 @@
     },
     {
       "type": "socks5",
+      "host": "212.87.198.109",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "212.87.198.110",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "212.87.198.112",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "212.87.198.144",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "212.87.198.145",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "212.87.198.146",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "213.111.146.36",
       "port": 18080
     },
@@ -15453,6 +15831,16 @@
     {
       "type": "socks5",
       "host": "216.144.229.107",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "216.144.231.101",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "216.144.231.111",
       "port": 1080
     },
     {
@@ -16512,6 +16900,11 @@
     },
     {
       "type": "socks5",
+      "host": "3.129.154.177",
+      "port": 1081
+    },
+    {
+      "type": "socks5",
       "host": "3.136.128.121",
       "port": 1080
     },
@@ -16902,6 +17295,11 @@
     },
     {
       "type": "socks5",
+      "host": "31.76.102.22",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "31.76.11.151",
       "port": 28080
     },
@@ -16943,6 +17341,11 @@
     {
       "type": "socks5",
       "host": "31.76.59.70",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "31.76.84.141",
       "port": 1080
     },
     {
@@ -17327,6 +17730,11 @@
     },
     {
       "type": "socks5",
+      "host": "37.153.77.204",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
       "host": "37.16.2.124",
       "port": 1080
     },
@@ -17368,6 +17776,11 @@
     {
       "type": "socks5",
       "host": "37.221.194.29",
+      "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "37.221.215.135",
       "port": 1080
     },
     {
@@ -19037,6 +19450,11 @@
     },
     {
       "type": "socks5",
+      "host": "45.169.106.140",
+      "port": 1086
+    },
+    {
+      "type": "socks5",
       "host": "45.179.145.12",
       "port": 6080
     },
@@ -19268,152 +19686,152 @@
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 4974
+      "port": 4114
     },
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 7537
+      "port": 4444
     },
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 7908
+      "port": 7899
     },
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 9090
+      "port": 12128
     },
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 11339
+      "port": 12379
     },
     {
       "type": "socks5",
       "host": "45.74.31.40",
-      "port": 13515
+      "port": 14950
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 4096
+      "port": 4270
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 4308
+      "port": 8420
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 4584
+      "port": 10443
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 4895
+      "port": 10475
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 5479
+      "port": 11247
     },
     {
       "type": "socks5",
       "host": "45.74.31.41",
-      "port": 7096
+      "port": 12364
     },
     {
       "type": "socks5",
       "host": "45.74.31.42",
-      "port": 4638
+      "port": 4143
     },
     {
       "type": "socks5",
       "host": "45.74.31.42",
-      "port": 4997
+      "port": 4825
     },
     {
       "type": "socks5",
       "host": "45.74.31.42",
-      "port": 5394
+      "port": 4874
     },
     {
       "type": "socks5",
       "host": "45.74.31.42",
+      "port": 4931
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.42",
+      "port": 6413
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.42",
+      "port": 7997
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 4153
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 4528
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 4728
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 4798
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 5130
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.46",
+      "port": 8447
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.47",
+      "port": 4044
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.47",
+      "port": 5507
+    },
+    {
+      "type": "socks5",
+      "host": "45.74.31.47",
       "port": 5536
     },
     {
       "type": "socks5",
-      "host": "45.74.31.42",
-      "port": 6941
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.42",
-      "port": 12143
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 4909
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 4951
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 5161
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 6108
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 6750
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.46",
-      "port": 7081
+      "host": "45.74.31.47",
+      "port": 7748
     },
     {
       "type": "socks5",
       "host": "45.74.31.47",
-      "port": 4018
+      "port": 8052
     },
     {
       "type": "socks5",
       "host": "45.74.31.47",
-      "port": 5159
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.47",
-      "port": 5910
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.47",
-      "port": 6042
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.47",
-      "port": 7554
-    },
-    {
-      "type": "socks5",
-      "host": "45.74.31.47",
-      "port": 7704
+      "port": 22445
     },
     {
       "type": "socks5",
@@ -19997,6 +20415,11 @@
     },
     {
       "type": "socks5",
+      "host": "47.121.182.36",
+      "port": 1081
+    },
+    {
+      "type": "socks5",
       "host": "47.121.182.88",
       "port": 8090
     },
@@ -20038,17 +20461,7 @@
     {
       "type": "socks5",
       "host": "47.237.2.245",
-      "port": 119
-    },
-    {
-      "type": "socks5",
-      "host": "47.237.2.245",
       "port": 541
-    },
-    {
-      "type": "socks5",
-      "host": "47.237.2.245",
-      "port": 8888
     },
     {
       "type": "socks5",
@@ -20084,6 +20497,21 @@
       "type": "socks5",
       "host": "47.238.130.212",
       "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "47.238.134.126",
+      "port": 1337
+    },
+    {
+      "type": "socks5",
+      "host": "47.238.134.126",
+      "port": 8004
+    },
+    {
+      "type": "socks5",
+      "host": "47.238.134.126",
+      "port": 8058
     },
     {
       "type": "socks5",
@@ -20174,6 +20602,16 @@
       "type": "socks5",
       "host": "47.245.99.1",
       "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "47.250.11.111",
+      "port": 8085
+    },
+    {
+      "type": "socks5",
+      "host": "47.250.11.111",
+      "port": 8181
     },
     {
       "type": "socks5",
@@ -20477,11 +20915,6 @@
     },
     {
       "type": "socks5",
-      "host": "47.89.159.212",
-      "port": 9098
-    },
-    {
-      "type": "socks5",
       "host": "47.90.149.238",
       "port": 1080
     },
@@ -20512,21 +20945,6 @@
     },
     {
       "type": "socks5",
-      "host": "47.91.109.17",
-      "port": 80
-    },
-    {
-      "type": "socks5",
-      "host": "47.91.109.17",
-      "port": 5060
-    },
-    {
-      "type": "socks5",
-      "host": "47.91.109.17",
-      "port": 8081
-    },
-    {
-      "type": "socks5",
       "host": "47.91.110.148",
       "port": 4433
     },
@@ -20544,11 +20962,6 @@
       "type": "socks5",
       "host": "47.91.115.179",
       "port": 1081
-    },
-    {
-      "type": "socks5",
-      "host": "47.91.115.179",
-      "port": 4145
     },
     {
       "type": "socks5",
@@ -20643,17 +21056,12 @@
     {
       "type": "socks5",
       "host": "49.13.22.249",
-      "port": 10803
-    },
-    {
-      "type": "socks5",
-      "host": "49.13.22.249",
       "port": 10806
     },
     {
       "type": "socks5",
       "host": "49.13.22.249",
-      "port": 10807
+      "port": 10808
     },
     {
       "type": "socks5",
@@ -20778,6 +21186,11 @@
     {
       "type": "socks5",
       "host": "49.87.152.51",
+      "port": 8989
+    },
+    {
+      "type": "socks5",
+      "host": "49.87.152.68",
       "port": 8989
     },
     {
@@ -21228,12 +21641,12 @@
     {
       "type": "socks5",
       "host": "5.75.133.113",
-      "port": 10811
+      "port": 10809
     },
     {
       "type": "socks5",
       "host": "5.75.133.113",
-      "port": 10813
+      "port": 10811
     },
     {
       "type": "socks5",
@@ -22278,12 +22691,22 @@
     {
       "type": "socks5",
       "host": "65.21.252.66",
-      "port": 10806
+      "port": 10808
     },
     {
       "type": "socks5",
       "host": "65.21.252.66",
-      "port": 10813
+      "port": 10809
+    },
+    {
+      "type": "socks5",
+      "host": "65.21.252.66",
+      "port": 10811
+    },
+    {
+      "type": "socks5",
+      "host": "65.21.252.66",
+      "port": 10814
     },
     {
       "type": "socks5",
@@ -24237,6 +24660,11 @@
     },
     {
       "type": "socks5",
+      "host": "78.17.98.71",
+      "port": 10808
+    },
+    {
+      "type": "socks5",
       "host": "78.187.157.235",
       "port": 1080
     },
@@ -24557,11 +24985,6 @@
     },
     {
       "type": "socks5",
-      "host": "8.211.194.78",
-      "port": 55443
-    },
-    {
-      "type": "socks5",
       "host": "8.211.195.139",
       "port": 8443
     },
@@ -24578,22 +25001,32 @@
     {
       "type": "socks5",
       "host": "8.211.42.167",
-      "port": 1080
+      "port": 51
     },
     {
       "type": "socks5",
       "host": "8.211.42.167",
-      "port": 3333
+      "port": 1081
+    },
+    {
+      "type": "socks5",
+      "host": "8.211.42.167",
+      "port": 4153
+    },
+    {
+      "type": "socks5",
+      "host": "8.211.42.167",
+      "port": 5060
+    },
+    {
+      "type": "socks5",
+      "host": "8.211.42.167",
+      "port": 8080
     },
     {
       "type": "socks5",
       "host": "8.211.49.86",
       "port": 80
-    },
-    {
-      "type": "socks5",
-      "host": "8.211.49.86",
-      "port": 100
     },
     {
       "type": "socks5",
@@ -24634,11 +25067,6 @@
       "type": "socks5",
       "host": "8.213.128.6",
       "port": 6666
-    },
-    {
-      "type": "socks5",
-      "host": "8.213.134.213",
-      "port": 41
     },
     {
       "type": "socks5",
@@ -24683,7 +25111,7 @@
     {
       "type": "socks5",
       "host": "8.215.12.103",
-      "port": 8060
+      "port": 8005
     },
     {
       "type": "socks5",
@@ -24743,7 +25171,12 @@
     {
       "type": "socks5",
       "host": "8.220.141.8",
-      "port": 8081
+      "port": 8045
+    },
+    {
+      "type": "socks5",
+      "host": "8.220.141.8",
+      "port": 12000
     },
     {
       "type": "socks5",
@@ -24783,32 +25216,27 @@
     {
       "type": "socks5",
       "host": "8.221.139.222",
-      "port": 111
+      "port": 6666
     },
     {
       "type": "socks5",
       "host": "8.221.139.222",
-      "port": 8026
+      "port": 8889
     },
     {
       "type": "socks5",
-      "host": "8.221.141.88",
-      "port": 11
-    },
-    {
-      "type": "socks5",
-      "host": "8.221.141.88",
-      "port": 135
-    },
-    {
-      "type": "socks5",
-      "host": "8.221.141.88",
-      "port": 4326
+      "host": "8.221.139.222",
+      "port": 31433
     },
     {
       "type": "socks5",
       "host": "8.222.134.33",
       "port": 1080
+    },
+    {
+      "type": "socks5",
+      "host": "8.222.160.208",
+      "port": 3333
     },
     {
       "type": "socks5",
@@ -25074,396 +25502,6 @@
       "type": "socks5",
       "host": "82.115.26.238",
       "port": 9050
-    },
-    {
-      "type": "socks5",
-      "host": "82.115.5.118",
-      "port": 40000
-    },
-    {
-      "type": "socks5",
-      "host": "82.115.6.216",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.116.43.170",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.116.60.184",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.116.62.3",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.117.78.58",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.139.234.160",
-      "port": 1001
-    },
-    {
-      "type": "socks5",
-      "host": "82.139.234.160",
-      "port": 1010
-    },
-    {
-      "type": "socks5",
-      "host": "82.142.130.102",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.144.85.78",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.146.17.37",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.146.38.18",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.149.217.54",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.152.132.102",
-      "port": 9091
-    },
-    {
-      "type": "socks5",
-      "host": "82.152.163.131",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.162.57.129",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.165.162.229",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.165.235.96",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.180.146.251",
-      "port": 10800
-    },
-    {
-      "type": "socks5",
-      "host": "82.196.69.34",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.200.30.126",
-      "port": 11080
-    },
-    {
-      "type": "socks5",
-      "host": "82.202.130.176",
-      "port": 1001
-    },
-    {
-      "type": "socks5",
-      "host": "82.202.163.222",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.21.153.14",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.21.153.141",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.174.113",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.23.79",
-      "port": 10001
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.23.79",
-      "port": 10007
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.23.79",
-      "port": 10023
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.7.240",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.7.86",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.22.77.35",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.23.173.223",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.26.152.253",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.26.171.189",
-      "port": 1081
-    },
-    {
-      "type": "socks5",
-      "host": "82.26.171.31",
-      "port": 1081
-    },
-    {
-      "type": "socks5",
-      "host": "82.29.155.117",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "82.47.161.152",
-      "port": 8443
-    },
-    {
-      "type": "socks5",
-      "host": "82.65.237.58",
-      "port": 9050
-    },
-    {
-      "type": "socks5",
-      "host": "82.9.133.51",
-      "port": 9150
-    },
-    {
-      "type": "socks5",
-      "host": "83.147.18.168",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.147.19.226",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.147.216.208",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.147.217.103",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.147.255.85",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.166.247.254",
-      "port": 10808
-    },
-    {
-      "type": "socks5",
-      "host": "83.171.249.38",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.172.43.66",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.174.229.42",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.215.25.66",
-      "port": 9050
-    },
-    {
-      "type": "socks5",
-      "host": "83.219.149.45",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.219.232.123",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.220.73.35",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.221.219.245",
-      "port": 7890
-    },
-    {
-      "type": "socks5",
-      "host": "83.221.219.245",
-      "port": 10808
-    },
-    {
-      "type": "socks5",
-      "host": "83.221.222.194",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.222.24.37",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.229.123.88",
-      "port": 80
-    },
-    {
-      "type": "socks5",
-      "host": "83.229.126.158",
-      "port": 10801
-    },
-    {
-      "type": "socks5",
-      "host": "83.234.137.154",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.234.14.211",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.234.203.118",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.234.87.145",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.237.11.138",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.237.213.34",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.237.214.70",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.237.82.146",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.237.92.106",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.242.252.202",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.69.112.234",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.69.2.36",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.69.25.205",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.69.80.63",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "83.69.80.63",
-      "port": 8443
-    },
-    {
-      "type": "socks5",
-      "host": "84.200.205.35",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "84.200.89.140",
-      "port": 1080
-    },
-    {
-      "type": "socks5",
-      "host": "84.201.144.65",
-      "port": 10000
-    },
-    {
-      "type": "socks5",
-      "host": "84.201.144.65",
-      "port": 10004
     }
   ]
 }
